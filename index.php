@@ -87,7 +87,8 @@
 		</div>
 			<div class="row odd content">
 					<div class="col-md-4 editable">
-					
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do </p>
 					</div>
 
 					<div class="col-md-4 editable">
@@ -140,12 +141,12 @@
 
 				<div class="row content odd ">
 					<div class="col-md-6">
-						<p>Hello</p>
+						<h2>Hello</h2>
 						<img class="img-responsive" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=325×225&w=825&h=425">
 					</div>
 
 					<div class="col-md-6">
-						<p>Hello</p>
+						<h3>Hello</h3>
 						<p>Hello</p>
 						<p>Hello</p>
 						<p>Hello</p>
